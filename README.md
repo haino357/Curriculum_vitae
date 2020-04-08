@@ -6,7 +6,7 @@
 |---|-----|
 |Name|庄司　高之 (Shoji Takayuki))|
 |Birthday|1993/04/06|
-|age|26|
+|age|27|
 
 ## スキル
 ### 言語
